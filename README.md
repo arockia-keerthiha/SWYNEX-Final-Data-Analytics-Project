@@ -28,6 +28,7 @@ Analyzed transaction counts, recorded sales amounts, quantities sold, product pe
 
 ## 6. Dashboard
 An interactive dashboard was developed using Power BI to present key performance indicators, charts, and filters.
+![Cafe Sales Power BI Dashboard](dashboardimage.png)
 
 ## 7. Key Business Insights
 - Salad had the highest recorded sales amount among the listed products in the initial analysis.
